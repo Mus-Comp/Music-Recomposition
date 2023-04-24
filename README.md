@@ -17,7 +17,7 @@ Like our goal, our work is two-fold as well:
 2) The other major limitation of Spleeter is that it is relatively difficult to use as configuration steps for training a custom model are not explained clearly (even in the presence of a dedicated wiki page).
 
 ## Use of our Model
-Here is a link to our model and configuration files: [INSERT S3 LINK HERE]
+Here is a link to our docker repo: [neesarg/mc-app-repo](https://hub.docker.com/repository/docker/neesarg/mc-app-repo/general)
 Refer to Spleeter API on using a custom trained model for prediction.
 
 ## The Data Processing Challenge
