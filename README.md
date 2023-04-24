@@ -1,4 +1,4 @@
-# Mus-Comp: Enabling Music For Everyone
+# [Mus-Comp](http://mus-comp.io/): Enabling Music For Everyone
 At Mus-Comp, our goal is two-fold: 1) allow musicians and hobbyists to quickly attain separated-instrument audio files and a MIDI file for music production and resampling, and 2) allow developers to carry forward our work and make it better.
 
 ## Our Work from 10,000 Feet Above
